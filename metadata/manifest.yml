@@ -1,5 +1,5 @@
 Name: wildfly
-Source-Url: git@github.com/ldadams/openshift-keycloak-cartridge.git
+Source-Url: git@github.com:ldadams/openshift-keycloak-cartridge.git
 Cartridge-Short-Name: WILDFLY
 Display-Name: Keycloak 1.0.4.Final
 Description: "Authentication and Authorization Server."
